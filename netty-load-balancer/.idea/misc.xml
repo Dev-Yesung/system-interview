@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>AsciiDoc</id>
+          </State>
+          <State>
+            <id>GeneralAsciiDoc</id>
+          </State>
+          <State>
+            <id>JSON 및 JSON5</id>
+          </State>
+          <State>
+            <id>JUnit</id>
+          </State>
+          <State>
+            <id>JVM 언어</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>리소스 관리Java</id>
+          </State>
+          <State>
+            <id>발생할 수 있는 버그Java</id>
+          </State>
+          <State>
+            <id>발생할 수 있는 버그Kotlin</id>
+          </State>
+          <State>
+            <id>보안Java</id>
+          </State>
+          <State>
+            <id>불필요한 구문Kotlin</id>
+          </State>
+          <State>
+            <id>성능Java</id>
+          </State>
+          <State>
+            <id>스타일 문제Kotlin</id>
+          </State>
+          <State>
+            <id>오류 처리Java</id>
+          </State>
+          <State>
+            <id>이름 생성 규칙Kotlin</id>
+          </State>
+          <State>
+            <id>일반</id>
+          </State>
+          <State>
+            <id>코드 스타일 이슈Java</id>
+          </State>
+          <State>
+            <id>테스트 프레임워크JVM 언어</id>
+          </State>
+          <State>
+            <id>프로퍼티 파일</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>사용자 정의</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="zulu-21" project-jdk-type="JavaSDK" />
+</project>
