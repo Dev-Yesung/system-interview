@@ -1,0 +1,9 @@
+id-generator:
+  snowflake:
+    epoch: 1711920000000 #2025-04-01T00:00:00
+    min-id-value: 0
+    datacenter-id: 1
+    worker-id: 1
+    datacenter-id-bits: 5
+    worker-id-bits: 5
+    sequence-bits: 12
